@@ -1,3 +1,5 @@
+Code book for Coursera Getting and Cleaning Data course project
+
 You have to download sourse data from link below and unzip it to working directory of R Studio.
 You have to perform R script.
 About source data
